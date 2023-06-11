@@ -19,6 +19,6 @@ module.exports = {
 
         message.reply({ content: '<:boost:1117346767139254282> Veuillez verifier vos ***DMs*** !' })
         message.react('💎')
-        //message.member.send({ content: `https://discord.gg/YesU79pV5D`, embeds: [embed] });
+        message.member.send({ content: `https://discord.gg/YesU79pV5D`, embeds: [embed] });
     }
 }
