@@ -19,10 +19,11 @@
 * Website: https://hosting-phenix.com
 * Twitter: [@its\_afternath](https://twitter.com/its\_afternath)
 * Github: [@afternath](https://github.com/afternath)
+* Bur Repors : [Issues](https://github.com/AfterNath/naoki_rework/issues)
 
 
 
 ## Show your support
 
 💎 **Give a ⭐️ if this project helped you!**
-⚽ **If you notice a bug, please open a Pull Request**
+
