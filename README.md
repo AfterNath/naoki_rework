@@ -11,29 +11,15 @@
 
 > Naoki Rework by AFTERNATH
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
 
 ## Author
 
 👤 **AfterNath**
 
-* Website: hosting-phenix.co
+* Website: https://hosting-phenix.com
 * Twitter: [@its\_afternath](https://twitter.com/its\_afternath)
 * Github: [@afternath](https://github.com/afternath)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
