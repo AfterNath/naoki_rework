@@ -19,7 +19,7 @@
 * Website: https://hosting-phenix.com
 * Twitter: [@its\_afternath](https://twitter.com/its\_afternath)
 * Github: [@afternath](https://github.com/afternath)
-* Bur Repors : [Issues](https://github.com/AfterNath/naoki_rework/issues)
+* Bug Reports : [Issues](https://github.com/AfterNath/naoki_rework/issues)
 
 
 
