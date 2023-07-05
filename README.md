@@ -21,7 +21,7 @@
 * Github: [@afternath](https://github.com/afternath)
 * Bug Reports : [Issues](https://github.com/AfterNath/naoki_rework/issues)
 
-* 👤 **Xertien**
+👤 **Xertien**
 
 * Website: https://hosting-phenix.com
 * Twitter: [@xertien](https://twitter.com/xertien)
